@@ -1,0 +1,19 @@
+{
+  "C_Cpp.intelliSenseEngine": "Tag Parser",
+  "idf.adapterTargetName": "esp32c3",
+  "idf.openOcdConfigs": [
+    "board/esp32c3-builtin.cfg"
+  ],
+  "idf.port": "/dev/ttyACM0",
+  "idf.flashType": "JTAG",
+  "files.associations": {
+    "sdkconfig.h": "c",
+    "i2c.h": "c",
+    "gpio.h": "c",
+    "mpu6050.h": "c",
+    "freertos.h": "c",
+    "task.h": "c",
+    "cmath": "c",
+    "complex": "c"
+  }
+}
